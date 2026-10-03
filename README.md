@@ -49,6 +49,11 @@ Users can provide trip preferences such as:
 
 Triply then organizes the selected places into a trip itinerary.
 
+## 🚀 Live App
+
+[**Triply — Live App**](https://trip-planner-38oqez9f9-bsathwik273-4139.vercel.app/)
+
+
 ### 🧠 AI-Powered Architecture
 
 The current system follows:
